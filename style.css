@@ -15,6 +15,11 @@
     padding: 0 10px;
   }
 
+  header.delivery{
+      color: #f1f1f1;
+      align-items: flex-start;
+  }
+
   header{
     display: flex;
     align-items: center;

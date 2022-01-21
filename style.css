@@ -9,7 +9,12 @@
   
   #top-list{
     list-style-type: none;
-    list-style: none;}
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+    }
 
   /* Float four columns side by side */
   .column {

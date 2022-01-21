@@ -33,6 +33,7 @@
     color: #000;
     cursor: pointer;
     margin-bottom: 30px;
+    margin-top: 20px;
   }
   /* Remove extra left and right margins, due to padding in columns */
   .row {margin: 0 -5px;}

@@ -4,6 +4,10 @@ body{
     font-family: "Roboto", sans-serif;
 }
 
+ul{
+    width: 33%;
+}
+
 header{
     display: flex;
     align-items: center;

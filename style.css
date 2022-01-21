@@ -18,6 +18,10 @@
     color: #000;
     list-style-type: none;
     list-style: none;
+    text-decoration: none;
+    font-size: 30px;
+    color: #FFF;
+    cursor: pointer;
   }
   /* Remove extra left and right margins, due to padding in columns */
   .row {margin: 0 -5px;}

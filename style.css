@@ -16,6 +16,8 @@
   .link {
     text-decoration:none;
     color: #000;
+    list-style-type: none;
+    list-style: none;
   }
   /* Remove extra left and right margins, due to padding in columns */
   .row {margin: 0 -5px;}
@@ -26,6 +28,7 @@
     display: table;
     clear: both;
   }
+  
   
   /* Style the counter cards */
   .card {

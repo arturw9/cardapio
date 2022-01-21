@@ -91,11 +91,13 @@ title{
 }
 
 .topCard {
+    width: 33.3%;
     padding: 20px;
     padding-top: 0px;
 }
 
 .bottomCard {
+    width: 33.3%;
     padding: 20px;
 }
 

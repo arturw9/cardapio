@@ -15,6 +15,7 @@
   }
   .link {
     text-decoration:none;
+    color: #000;
   }
   /* Remove extra left and right margins, due to padding in columns */
   .row {margin: 0 -5px;}

@@ -2,6 +2,10 @@
 * {
     box-sizing: border-box;
   }
+
+  h6{
+      color: red;
+  }
   
   body {
     font-family: Arial, Helvetica, sans-serif;

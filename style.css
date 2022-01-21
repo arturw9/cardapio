@@ -40,3 +40,9 @@
       margin-bottom: 20px;
     }
   }
+
+  .sukitaL {
+    background: url(https://production-darez-api.s3.amazonaws.com/products/1598921383123_IMAGE1598921382986.jpeg) center/cover;
+    height: 300px;
+    width: 100%;
+}

@@ -13,9 +13,12 @@
   }
 
   .bodyIndex {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
     background-image: url(fundo1.jpeg);
     background-repeat: no-repeat;
-    background-clip: border-box;
   }
 
   /* Float four columns side by side */

@@ -12,16 +12,14 @@
     background-color: gainsboro;
   }
 
-  @media screen and (max-width: 600px) {
+
   .bodyIndex {
-    position: relative;
-    height: 100vh;
-    width: 100vw;
-    background-size: cover;
+    background-size:contain;
+    background-position:center;
     background-image: url(fundo1.jpeg);
     background-repeat: no-repeat;
   }
-}
+
 
   /* Float four columns side by side */
   .column {
